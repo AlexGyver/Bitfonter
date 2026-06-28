@@ -7,10 +7,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "build_docs": "webpack --config ./webpack.docs.js",
-    "build_host": "webpack --config ./webpack.host.js",
-    "build_single": "webpack --config ./webpack.single.js",
-    "dev": "webpack serve --config ./webpack.dev.js"
+        "build_docs": "webpack --config ./webpack.docs.js",
+        "build_single": "webpack --config ./webpack.single.js",
+        "build_tauri": "webpack --config ./webpack.tauri.js",
+        "tauri_build_app": "tauri build",
+        "dev": "webpack serve --config ./webpack.dev.js"
   },
   "keywords": [],
   "author": "AlexGyver",

@@ -1,6 +1,6 @@
 # Bitfonter
 - [WEB версия](https://alexgyver.github.io/Bitfonter/)
-- Релиз
+- [Релиз](https://github.com/alexgyver/Bitfonter/releases/latest)
 
 Конвертер шрифтов в растровый формат Bitfont, с которым умеет работать например GyverGFX2 и библиотеки на её основе:
 
